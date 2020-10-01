@@ -1,0 +1,32 @@
+2020-10-01T02:11:41.736Z [api-veiculos] info: API Started!
+2020-10-01T02:12:00.858Z [api-veiculos] error: Unexpected end of JSON input
+2020-10-01T02:12:50.658Z [api-veiculos] error: Unexpected end of JSON input
+2020-10-01T02:13:31.252Z [api-veiculos] error: Unexpected end of JSON input
+2020-10-01T02:14:29.004Z [api-veiculos] info: API Started!
+2020-10-01T02:15:23.354Z [api-veiculos] error: Assignment to constant variable.
+2020-10-01T02:15:31.308Z [api-veiculos] info: GET /veiculo
+2020-10-01T02:15:59.855Z [api-veiculos] info: GET /veiculo
+2020-10-01T02:16:04.212Z [api-veiculos] error: Assignment to constant variable.
+2020-10-01T02:16:10.668Z [api-veiculos] info: API Started!
+2020-10-01T02:16:13.742Z [api-veiculos] info: POST /veiculo - {"id":1,"Placa":"teste"}
+2020-10-01T02:16:21.014Z [api-veiculos] info: GET /veiculo
+2020-10-01T02:16:29.956Z [api-veiculos] info: GET /veiculo - {"id":1,"Placa":"teste"}
+2020-10-01T02:16:52.690Z [api-veiculos] info: DELETE /veiculo/:id
+2020-10-01T02:16:55.961Z [api-veiculos] info: GET /veiculo - undefined
+2020-10-01T02:17:27.398Z [api-veiculos] info: GET /veiculo
+2020-10-01T02:17:31.378Z [api-veiculos] info: POST /veiculo - {"id":2,"Placa":"teste"}
+2020-10-01T02:17:35.090Z [api-veiculos] info: GET /veiculo
+2020-10-01T02:17:53.580Z [api-veiculos] info: GET /veiculo
+2020-10-01T02:19:17.690Z [api-veiculos] info: POST /veiculo - {"id":3,"Placa":"testi"}
+2020-10-01T02:19:18.921Z [api-veiculos] info: POST /veiculo - {"id":4,"Placa":"testi"}
+2020-10-01T02:19:19.545Z [api-veiculos] info: POST /veiculo - {"id":5,"Placa":"testi"}
+2020-10-01T02:19:27.979Z [api-veiculos] info: GET /veiculo
+2020-10-01T02:19:43.578Z [api-veiculos] info: GET /veiculo - {"id":5,"Placa":"testi"}
+2020-10-01T02:20:22.315Z [api-veiculos] info: PUT /veiculo - {"id":5,"Placa":"testando"}
+2020-10-01T02:20:27.365Z [api-veiculos] info: GET /veiculo
+2020-10-01T02:22:46.429Z [api-veiculos] info: GET /veiculo
+2020-10-01T02:22:49.627Z [api-veiculos] info: POST /veiculo - {"id":1,"placa":"placa01","chassi":"chassi01","renavam":"renavam01","modelo":"modelo01","marca":"marca01","ano":"ano"}
+2020-10-01T02:23:09.219Z [api-veiculos] info: POST /veiculo - {"id":2,"placa":"placa02","chassi":"chassi02","renavam":"renavam02","modelo":"modelo02","marca":"marca02","ano":"ano02"}
+2020-10-01T02:23:12.274Z [api-veiculos] info: GET /veiculo
+2020-10-01T02:23:41.611Z [api-veiculos] info: PUT /veiculo - {"id":1,"placa":"placa01","chassi":"chassi01","renavam":"renavam01","modelo":"modelo01","marca":"marca01","ano":"ano01"}
+2020-10-01T02:23:44.504Z [api-veiculos] info: GET /veiculo
