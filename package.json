@@ -4,7 +4,6 @@
   "description": "Proposta de solução para o teste técnico do processo seletivo na Infosistemas.",
   "main": "./src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1", 
     "start": "nodemon ./src/index.js"
   },
   "author": "Gabriel Arcanjo dos Santos Ferreira",
@@ -13,5 +12,11 @@
     "express": "^4.17.1",
     "winston": "^3.2.1"
   },
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.3",
+    "request": "^2.88.2",
+    "should": "^13.2.3"
+  }
 }

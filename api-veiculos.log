@@ -30,3 +30,8 @@
 2020-10-01T02:23:12.274Z [api-veiculos] info: GET /veiculo
 2020-10-01T02:23:41.611Z [api-veiculos] info: PUT /veiculo - {"id":1,"placa":"placa01","chassi":"chassi01","renavam":"renavam01","modelo":"modelo01","marca":"marca01","ano":"ano01"}
 2020-10-01T02:23:44.504Z [api-veiculos] info: GET /veiculo
+2020-10-01T10:32:38.736Z [api-veiculos] info: API Started!
+2020-10-01T10:35:07.078Z [api-veiculos] info: GET /veiculo
+2020-10-01T10:35:07.936Z [api-veiculos] info: GET /veiculo
+2020-10-01T10:38:06.023Z [api-veiculos] info: GET /veiculo
+2020-10-05T13:35:32.302Z [api-veiculos] info: API Started!
